@@ -1,3 +1,5 @@
+# PRIMO ESERCIZIO
+
 ```
 py --version
 Python 3.13.0
